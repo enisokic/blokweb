@@ -77,8 +77,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/meroshisha_home.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/meroshisha_home.jpg" width="375px" alt="dit is de home pagina van de website mero-shisha.com">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/meroshisha_product.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/meroshisha_product.jpg" width="375px" alt="dit is de product pagina van de website mero-shisha.com">
